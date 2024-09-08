@@ -1,0 +1,37 @@
+.cart-item {
+    padding: 100px;
+
+}
+
+.cart-item .cart-item-format {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+
+
+}
+
+.cart-item-format p {
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(119, 113, 113);
+}
+
+.para p {
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(70, 67, 67);
+}
+
+hr {
+    height: 1px;
+    background-color: rgb(209, 203, 203);
+    margin: 18px 0px;
+    border: 0;
+    width: 95%;
+}
+
+.cart-item-format img {
+    width: 80px;
+    background: rgb(218, 213, 213);
+}
